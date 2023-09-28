@@ -1,5 +1,4 @@
 /*
-This is the beginning of our new project, "NewBeginnings" in order to surpass my old self.
 In this first file, we will be resolving the bootcamp sets 1 - 5 from Bathi's bootcamp. 
 Starting on Monday, November 21st, 2022; LOCK IN
 */
@@ -167,8 +166,8 @@ public class BootcampRevamped{
         int[] test47 = {-1, 0};
         System.out.println("Problem #47: " + Arrays.toString(twoSumII(test47, -1)));
         
-        String test48 = "0";
-        String test48b = "0";
+        String test48 = "5";
+        String test48b = "10";
         System.out.println("Problem #48: " + addStrings(test48, test48b));
         
         String test49 = "rat";
